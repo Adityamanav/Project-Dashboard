@@ -65,9 +65,9 @@ const projects = [
     title: "Quiz App",
     description: "Multiple choice quiz with score tracking and timer.",
     category: "Educational",
-    status: "planned",
+    status: "completed",
     tech: ["HTML", "CSS", "JS"],
-    link: "",
+    link: "https://adityamanav.github.io/Quiz-Application/",
     featured: false
   },
   {
