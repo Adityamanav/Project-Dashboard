@@ -37,7 +37,7 @@ const projects = [
     category: "Utility",
     status: "planned",
     tech: ["HTML", "CSS", "JS"],
-    link: "",
+    link: "https://adityamanav.github.io/clock-project/",
     featured: false
   },
   {
