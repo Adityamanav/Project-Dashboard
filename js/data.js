@@ -37,7 +37,7 @@ const projects = [
     category: "Utility",
     status: "planned",
     tech: ["HTML", "CSS", "JS"],
-    link: "https://adityamanav.github.io/clock-project/",
+    link: "",
     featured: false
   },
   {
@@ -45,7 +45,7 @@ const projects = [
     title: "Digital Clock",
     description: "Live digital clock with date, timezone and dark mode.",
     category: "Utility",
-    status: "planned",
+    status: "completed",
     tech: ["HTML", "CSS", "JS"],
     link: "https://adityamanav.github.io/clock-project/",
     featured: false
@@ -285,9 +285,9 @@ const projects = [
     title: "Currency Converter",
     description: "Convert between currencies using live exchange rates.",
     category: "Utility",
-    status: "planned",
+    status: "completed",
     tech: ["HTML", "CSS", "JS"],
-    link: "",
+    link: "https://adityamanav.github.io/currency_converter/",
     featured: false
   },
   {
